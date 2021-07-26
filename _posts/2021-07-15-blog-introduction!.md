@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "블로그 플랫폼 비교"
-date:   2021-07-15 12:12:18 +0900
+date:   2021-07-26 18:11:18 +0900
 categories: jekyll update
 ---
 <b>Introduction</b>
