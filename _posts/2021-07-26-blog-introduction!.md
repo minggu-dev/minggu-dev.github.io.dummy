@@ -111,7 +111,7 @@ categories: jekyll update
 
 <br>
 ### **5. 미디엄**
-![memium](/img/medium.png)
+![medium](/img/medium.png)
 > 주로 해외에서 많이 쓰이는 블로그 플랫폼
 
 - #### **장점**
