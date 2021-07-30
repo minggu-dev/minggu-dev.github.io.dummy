@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "github 블로그 Jekyll 시작하기(1)"
+title:  "github 블로그 Jekyll 시작하기(1) - Jekyll 소개"
 date:   2021-07-27 15:36:18 +0900
 categories: Jekyll update
 ---
